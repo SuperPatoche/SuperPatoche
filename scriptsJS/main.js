@@ -11,3 +11,10 @@ console.log(
   "color: orange;",
   "color: gray; font-size: 0.8em;"
 );
+
+
+
+console.log(
+  "%c SUCCESS ",
+  "background: #28a745; color: white; border-radius: 3px; padding: 2px 6px; font-weight: bold; display: inline-block;"
+);
